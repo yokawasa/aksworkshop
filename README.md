@@ -663,8 +663,6 @@ AzureポータルのAKSクラスターに移動し、`監視(Monitoring)`の下�
 
 ### 2.6 Scaling
 
-As popularity of the application grows the application needs to scale appropriately as demand changes. Ensure the application remains responsive as the number of order submissions increases
-
 アプリケーションの人気が高まるにつれて、需要の変化に応じてアプリケーションの要件を適切に調整する必要があります。 注文送信数が増加してもアプリケーションが応答し続けるようにしてください
 
 **Task: ベースラインの負荷テストを実行してください**
