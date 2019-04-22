@@ -842,12 +842,6 @@ az acr create --resource-group $resource_group --name $acr_name --sku Standard -
 ```
 **Task: Azure Container Registry Build機能を使ってコンテナイメージをあなたが作成したレジストリにPushしてください**
 
-まずはレジストリにログインしてください　
-
-```bash
-az acr login --name $acr_name
-```
-
 アプリケーションのコードをGit Cloneしてください
 ```bash
 git clone https://github.com/Azure/azch-captureorder.git
